@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Animes/static/css/main.bff79530.css",
+    "main.js": "/Animes/static/js/main.cbf0ff04.js",
+    "static/js/787.a5d0423f.chunk.js": "/Animes/static/js/787.a5d0423f.chunk.js",
+    "static/media/cinemalogo.png": "/Animes/static/media/cinemalogo.45c96ba84dcb0ee07048.png",
+    "index.html": "/Animes/index.html",
+    "main.bff79530.css.map": "/Animes/static/css/main.bff79530.css.map",
+    "main.cbf0ff04.js.map": "/Animes/static/js/main.cbf0ff04.js.map",
+    "787.a5d0423f.chunk.js.map": "/Animes/static/js/787.a5d0423f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bff79530.css",
+    "static/js/main.cbf0ff04.js"
+  ]
+}
