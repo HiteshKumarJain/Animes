@@ -5,7 +5,7 @@ function Navbar() {
     let [searchKey, setSearchKey] = useState("")
     return (<nav>
         <div className="navbarlogo">
-            <Link to="/Anime" id="logo"><img src={logo} alt="/" /></Link>
+            <Link to="/Animes" id="logo"><img src={logo} alt="/" /></Link>
             <h1>AnimeVerse</h1>
         </div>
         <div className="searchbar">
